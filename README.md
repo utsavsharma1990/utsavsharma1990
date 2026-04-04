@@ -30,6 +30,8 @@
 
 ---
 
+## 🏆 Shipped at Work
+
 ## 🌱 Currently Learning
 
 - 🤖 **LangGraph** — multi-agent orchestration & stateful AI workflows
@@ -86,6 +88,7 @@
 2021 → Informa           Senior Data Analyst
            ↓              (Led offshore team of 9, +60% performance)
 2023 → Citeline          Senior Data Analyst → Data Eng Manager
+           ↓              (Compliance risk ML system: 148K events/day, AUC 0.998, 4 weeks)
            ↓              (LLM-assisted DB optimization: 75% speedup)
 2026 →  Building AI systems. Targeting Google AI Engineering.
 ```
@@ -94,6 +97,9 @@
 
 ## 📌 Key Achievements
 
+- 🚀 **Production ML system in 4 weeks from zero infrastructure** — LightGBM + SHAP 
+  compliance risk engine scoring **148,748 clinical trial events daily** for 20 pharma 
+  clients; ROC AUC 0.998; VP validated before customer release
 - 🔬 **75% DB query speedup** — LLM-assisted index optimization for 20 pharma clients
 - 🧠 **NLP classification system** — SpaCy ticket classifier, 10K+ monthly requests
 - 📊 **25% SSRS report improvement** — CTEs, window functions & indexing
