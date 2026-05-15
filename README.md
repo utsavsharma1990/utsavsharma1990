@@ -3,7 +3,8 @@
 
 <p align="center">
   <strong>Data Engineering Manager → AI Engineer</strong><br/>
-  Building LLM systems, RAG pipelines & AI agents that turn complex data into intelligent decisions.<br/>
+  Building production LLM systems for pharma & life sciences
+11 years across telecom (Ericsson), oil & gas, and life sciences. Currently: Data Engineering Manager at Norstella Citeline, building and deploying ML + LLM systems for 20 enterprise pharma clients.<br/>
   📍 New Jersey / New York Metro &nbsp;|&nbsp; 11 Years in Data Engineering
 </p>
 
@@ -24,6 +25,8 @@
 | Project | What It Does | Stack | Status |
 |---------|-------------|-------|--------|
 | [clinical-trials-rag](https://github.com/utsavsharma1990/clinical-trials-rag) | RAG-powered Q&A on clinical trials data | LangChain · ChromaDB · FastAPI | ✅ Live |
+| [pharma-intelligence-ai](https://github.com/utsavsharma1990/pharma-intelligence-ai) | Multi-agent system with LangGraph supervisor routing 3 specialist agents. MCP server for Claude Desktop. RAGAS evaluation layer. | LangGraph · MCP · RAGAS · FastAPI |
+| [pharma-competitive-intel](https://github.com/utsavsharma1990/pharma-competitive-intel) | LangGraph agent that auto-generates competitive landscape PDF reports from ClinicalTrials.gov + FDA FAERS public APIs. | LangGraph · FastAPI · ReportLab · Pydantic |
 | etl-agent-langraph | AI agent that inspects DB schemas & optimizes ETL | LangGraph · Python · SQL | 🔨 Building |
 | clinical-data-mlops | Production ML pipeline with model registry | MLflow · Vertex AI · Docker | 📅 Planned |
 | llm-eval-toolkit | Evaluation framework for LLM outputs | Python · RAGAS | 📅 Planned |
